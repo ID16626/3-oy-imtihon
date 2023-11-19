@@ -1,0 +1,14 @@
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/space-mono/SpaceMono-Regular.ttf") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: "Lexend Deca";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/lexend-deca/static/LexendDeca-Regular.ttf") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
